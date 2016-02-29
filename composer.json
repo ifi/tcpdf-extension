@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.3.8",
-        "tecnickcom/tcpdf": "dev-master"
+        "tecnick.com/tcpdf": "dev-master"
     },
     "autoload": {
         "psr-0" : { "Tcpdf\\Extension\\" : "src/" }
